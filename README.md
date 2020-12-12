@@ -13,14 +13,30 @@ A repository of resources for optimization problems and software.
 * Cutting Stock
 * Facility Location
 * Vehicle Routing
+* Shift Scheduling Problem
+* Assignment Problem
 
 
-## Optimization Frameworks
+## Optimization Methods
 * Linear Programming
+* Dynamic Programming
 * Mixted-Integer Linear Programming
 * Constraint Programming (CP)
 * Local Search
 * Evolutionary Computing
+
+
+## Algorithms
+* Branch-and-Bound
+* Simplex
+
+
+## Hearistic Methods
+* Tabu search
+
+
+## Modeling Languages/Libraries
+* pyomo
 
 
 ## Solvers
@@ -30,3 +46,9 @@ A repository of resources for optimization problems and software.
 * CBC
 * SCIP
 * CP-SAT
+
+
+## Online Courses
+* Coursera - Discrete Optimization
+
+## Books
